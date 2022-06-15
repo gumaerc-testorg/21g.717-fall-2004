@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +27,7 @@ Requirements
 
 1.  You are expected to attend all classes, as class discussion is crucial. Any unexcused absence will automatically lower your grade.
 2.  Each student will participate in two group projects during the semester. Each group will be responsible for reporting back to the class. The group will meet to discuss a teaching plan, and prepare readings and visual material on the topic. The group should obtain bibliography and materials that can be distributed to the class when making their presentation. Research, coherence and the presentation itself will be graded.
-3.  You will be required to write three short papers during the term. In addition, you will write a response journal to the text you have read, see the [calendar]({{< baseurl >}}/pages/calendar) for due dates. These will be your responses to a few questions we shall pose about the text, and the writing can be relatively informal. These "responses" will not be graded; these are aimed to assist you in organizing your thoughts for the class discussion to follow. However, failure to submit a response on the day it is due will result in a zero on that assignment: these responses are meant to give you the opportunity to think about the texts before the class meeting.
+3.  You will be required to write three short papers during the term. In addition, you will write a response journal to the text you have read, see the {{% resource_link a67e38f9-52a1-ebe0-0ed2-f58be23f8342 "calendar" %}} for due dates. These will be your responses to a few questions we shall pose about the text, and the writing can be relatively informal. These "responses" will not be graded; these are aimed to assist you in organizing your thoughts for the class discussion to follow. However, failure to submit a response on the day it is due will result in a zero on that assignment: these responses are meant to give you the opportunity to think about the texts before the class meeting.
 4.  You will be expected to come to class fully prepared to discuss that week's material: that is, you will have read the day's assigned text, and/or seen the assigned visual material, before coming to class. Assignments are posted very clearly on the syllabus. Any change in the syllabus during the course of the semester will be duly announced in class. If you are absent that day it is your responsibility to make sure you are aware of what you need to prepare.
 5.  All readings and selections from anthologies, newspapers and magazines will be supplied by the instructor to the class.
 6.  The films for this course will be shown outside class. The dates and venue for these screenings will be announced on the first day of class. Short excerpts from other visual and audio material will be presented in class.
