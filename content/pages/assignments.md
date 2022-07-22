@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides sample homework assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 629929fa-8a4a-e194-b333-f41cb28714ea
 ---
